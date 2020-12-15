@@ -1,2 +1,2 @@
 # NLW2_Discovery
-Plataforma para dar e ter aulas, desenvolvido durante a NLW2.
+Plataforma Proffy, desenvolvido durante a Next Level Week 2, oferececida pelo Rocketseat, com a possíbilidade de procurar aulas, e de se cadastrar para dar aulas.
